@@ -1,0 +1,9 @@
+// Import Bootstrap 5.1.3 Library
+@import "../vendor/bootstrap/scss/bootstrap.scss";
+//import style yang dibuat
+@import "global";
+@import "fonts";
+@import "navbar";
+@import "pages/home";
+@import "components/categories";
+@import "components/products";
